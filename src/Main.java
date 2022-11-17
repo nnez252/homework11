@@ -35,6 +35,6 @@ public class Main {
     public static void main(String[] args) {
 printGradeYear();
   printoc();
-        System.out.println(sum());
+        System.out.println("Доставка 3 дня"+sum());
         }
     }
